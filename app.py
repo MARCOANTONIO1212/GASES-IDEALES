@@ -1,4 +1,5 @@
 import streamlit as st
+st.image("quimica.webp")
 
 st.title("Calculadora de la Ecuación de los Gases Ideales")
 st.write("Ecuación: PV = nRT")
